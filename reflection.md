@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Student Email:  email
+Student Name: Mary Daniel
+Student Email:  mcdaniel@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,13 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+
+This assignment deepened my understanding of unit testing with pytest and highlighted the importance of structuring Python projects correctly for tests. I initially struggled with import errors due to an incorrect directory structure and missing __init__.py files, which are essential for proper package recognition. This made me realize the importance of handling absolute vs. relative imports, especially in pytest, which requires precise import strategies for test discovery.
+
+Through debugging, I became more familiar with useful pytest tools, like the -s flag for capturing output, and the significance of clear and consistent import structures for smooth test execution. I also recognized how testing frameworks play a critical role in maintaining code reliability and preventing errors. Moving forward, I plan to delve deeper into advanced pytest features, such as fixtures and mocking, and explore test-driven development (TDD) to enhance the robustness of my code. This experience reinforced my understanding that thorough testing is vital for building scalable, maintainable, and error-free software.
+
+
+
+
+
 
